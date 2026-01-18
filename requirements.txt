@@ -1,0 +1,51 @@
+# ===============================
+# Core Runtime
+# ===============================
+python-dotenv
+
+
+
+# ===============================
+# UI
+# ===============================
+streamlit
+tkinter
+
+
+
+# ===============================
+# LangChain (Agents + Tools)
+# ===============================
+langchain
+langchain-community
+langchain-openai              # doc- https://docs.langchain.com/oss/python/integrations/chat/openai
+langchain-core
+
+
+
+# ===============================
+# LLM / Embeddings
+# ===============================
+openai
+tiktoken
+sentence-transformers
+
+
+
+# ===============================
+# Memory / Vector Store
+# ===============================
+chromadb
+faiss-cpu
+
+
+# ===============================
+# PDF + OCR
+# ===============================
+easyocr
+pdfplumber
+PyMuPDF
+Pillow
+numpy
+
+
